@@ -18,4 +18,4 @@ script:
  - clang -coverage -o0 pattern.c
  -./pattern
  - gcov pattern.c
- 
+ hoo#
