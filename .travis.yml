@@ -8,5 +8,4 @@ script:
  -gcc -o test triangle.c
  -gcc -o test pattern.c
  -gcc -o test parellel.c
- 
  -./test
