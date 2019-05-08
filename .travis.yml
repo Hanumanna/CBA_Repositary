@@ -5,9 +5,11 @@ matrix:
       compiler:
         - gcc
       script:  
-        - gcc -o test test.c 
-        - ./test
-        - gcc -o fact fact.c
-        - ./fact
-        - gcc -o demo demo.c
-        - ./demo
+        - gcc -o Chrismustree Chrismustree.c 
+        - ./Chrismustree
+        - gcc -o traingle triangle.c
+        - ./traingle
+        - gcc -o parellel parellel.c
+        - ./parellel
+        - gcc -o pattern pattern.c
+        - ./pattern
